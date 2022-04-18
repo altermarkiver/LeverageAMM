@@ -8,17 +8,12 @@ Install `Truffle` via `npm` with global flag.
 npm install -g Truffle
 ```
 
-Install `OpenZeppelin` via `npm` in `leveraged-amm` folder.
+Install `OpenZeppelin` via `npm` .
 
 ```bash
  npm install @openzeppelin/contracts
 ```
 
-## Execute Tests for AMM
-
-```bash
-truffle test ./test/AMM.test.js
-```
 
 ## Execute Tests for Leveraged AMM
 
