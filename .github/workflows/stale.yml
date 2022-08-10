@@ -1,5 +1,5 @@
 
-name: Test contracts
+name: Contracts AutoTest
 
 on:
   workflow_dispatch:
