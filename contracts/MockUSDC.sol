@@ -6,7 +6,8 @@ import "@openzeppelin/contracts/token/ERC20/presets/ERC20PresetFixedSupply.sol";
 contract MockUSDC is ERC20PresetFixedSupply {
 
     constructor() ERC20PresetFixedSupply(
-        "MockUSDC", "$", 10000, msg.sender
         
+        "MockUSDC", "$", 10000, msg.sender
+
     ) {}
 }
